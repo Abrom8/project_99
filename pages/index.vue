@@ -1,5 +1,9 @@
 <template>
-  <Tutorial/>
+  <div class="bg-base-200">
+    <div class="container mx-auto">
+      <WeightInputForm />
+    </div>
+  </div>
 </template>
 
 <script>
